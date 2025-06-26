@@ -1,5 +1,5 @@
 🐍 Java Snake Game – Nostalgic Edition
-Relive the good old days with this nostalgic Java-based Snake Game, a classic revival of the legendary mobile game that ruled the early 2000s! Built with Java's Swing library, this project brings back pixel-style gameplay, retro sounds (optional), and simple mechanics that never go out of style.
+Relive the good old days with this nostalgic Java-based Snake Game, a classic revival of the legendary mobile game that ruled the early 2000s! Built with Java's Swing library, this project brings back pixel-style gameplay and simple mechanics that never go out of style.
 
 🎮 Features
 ✅ Classic snake movement (up, down, left, right)
